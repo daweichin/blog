@@ -1,0 +1,4 @@
+baseURL = 'https://domainance.github.io/'
+languageCode = 'en-us'
+title = 'Dawei blogs'
+theme = "contrast-hugo"

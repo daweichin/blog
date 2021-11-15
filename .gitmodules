@@ -1,0 +1,3 @@
+[submodule "daweisblog/public"]
+	path = daweisblog/public
+	url = https://github.com/domainance/domainance.github.io.git
